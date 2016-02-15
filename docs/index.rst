@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Little Python Book's documentation!
-==============================================
+Little Python Book
+====================
+
+A beginner friendly introduction to programming book, it uses Python and micro:bit device.
 
 Contents:
 
