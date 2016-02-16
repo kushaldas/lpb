@@ -40,6 +40,19 @@ will calculate, and tell you the answer.
 .. figure:: img/answer_is_2.png
    :align: center
 
+.. note:: Computers are very much sensitive about how you talk to them.
+   If you give any extra space (blank space by using the spacebar in keyboard) it may
+   not like it. Like, in the following I am giving one extra space in the beginning
+   of the line.
+   ::
+
+        >>>  1 + 1
+        Traceback (most recent call last):
+          File "<stdin>", line 1
+        IndentationError: unexpected indent 
+
+   When ever you see `IndentationError`, remember to check for any extra spaces in your code.
+
 Now you try to find the answer of something else. Like what is the answer of
 `110 + 220`. Can you ask your micro:bit what is the answer?
 ::
